@@ -1,4 +1,4 @@
-package com.example.pptapp;
+package com.example.jokenpo;
 
 import android.content.Context;
 

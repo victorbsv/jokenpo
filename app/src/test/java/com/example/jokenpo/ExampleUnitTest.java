@@ -1,4 +1,4 @@
-package com.example.pptapp;
+package com.example.jokenpo;
 
 import org.junit.Test;
 
